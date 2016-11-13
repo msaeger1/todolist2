@@ -1,4 +1,9 @@
 Rails.application.routes.draw do
+  resources :todo_items
+  resources :todo_items
+  resources :todoitems
+  resources :todoitems
+  resources :todoitems
   resources :todoitems
   resources :todoitems
   resources :todolists
